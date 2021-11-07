@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FuselCppTemplate - Shared Lib", "Source\FuselCppTemplate - Shared Lib\FuselCppTemplate - Shared Lib.vcxproj", "{26243756-7F29-44F0-9649-55D7D6E440E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FuselCppTemplate - Application", "Source\FuselCppTemplate - Application\FuselCppTemplate - Application.vcxproj", "{E919A7FC-89F0-4A51-8F47-56ECFE9B9541}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FuselCppTemplate - Windows Application", "Source\FuselCppTemplate - Windows Application\FuselCppTemplate - Windows Application.vcxproj", "{D6F7A894-07EE-48A8-9F5A-918D26E35B50}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FuselCppTemplate - Static Lib", "Source\FuselCppTemplate - Static Lib\FuselCppTemplate - Static Lib.vcxproj", "{0DF6A262-C8A9-4E31-BF43-76C3B9621FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuselCppTemplates", "Source\FuselCppTemplates\FuselCppTemplates.csproj", "{37ED150B-8CAC-4186-9C60-8DA684C010F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26243756-7F29-44F0-9649-55D7D6E440E1}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{26243756-7F29-44F0-9649-55D7D6E440E1}.Debug|x64.ActiveCfg = Debug|x64
+		{26243756-7F29-44F0-9649-55D7D6E440E1}.Debug|x64.Build.0 = Debug|x64
+		{26243756-7F29-44F0-9649-55D7D6E440E1}.Release|Any CPU.ActiveCfg = Release|x64
+		{26243756-7F29-44F0-9649-55D7D6E440E1}.Release|x64.ActiveCfg = Release|x64
+		{26243756-7F29-44F0-9649-55D7D6E440E1}.Release|x64.Build.0 = Release|x64
+		{E919A7FC-89F0-4A51-8F47-56ECFE9B9541}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{E919A7FC-89F0-4A51-8F47-56ECFE9B9541}.Debug|x64.ActiveCfg = Debug|x64
+		{E919A7FC-89F0-4A51-8F47-56ECFE9B9541}.Debug|x64.Build.0 = Debug|x64
+		{E919A7FC-89F0-4A51-8F47-56ECFE9B9541}.Release|Any CPU.ActiveCfg = Release|x64
+		{E919A7FC-89F0-4A51-8F47-56ECFE9B9541}.Release|x64.ActiveCfg = Release|x64
+		{E919A7FC-89F0-4A51-8F47-56ECFE9B9541}.Release|x64.Build.0 = Release|x64
+		{D6F7A894-07EE-48A8-9F5A-918D26E35B50}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{D6F7A894-07EE-48A8-9F5A-918D26E35B50}.Debug|x64.ActiveCfg = Debug|x64
+		{D6F7A894-07EE-48A8-9F5A-918D26E35B50}.Debug|x64.Build.0 = Debug|x64
+		{D6F7A894-07EE-48A8-9F5A-918D26E35B50}.Release|Any CPU.ActiveCfg = Release|x64
+		{D6F7A894-07EE-48A8-9F5A-918D26E35B50}.Release|x64.ActiveCfg = Release|x64
+		{D6F7A894-07EE-48A8-9F5A-918D26E35B50}.Release|x64.Build.0 = Release|x64
+		{0DF6A262-C8A9-4E31-BF43-76C3B9621FF9}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{0DF6A262-C8A9-4E31-BF43-76C3B9621FF9}.Debug|x64.ActiveCfg = Debug|x64
+		{0DF6A262-C8A9-4E31-BF43-76C3B9621FF9}.Debug|x64.Build.0 = Debug|x64
+		{0DF6A262-C8A9-4E31-BF43-76C3B9621FF9}.Release|Any CPU.ActiveCfg = Release|x64
+		{0DF6A262-C8A9-4E31-BF43-76C3B9621FF9}.Release|x64.ActiveCfg = Release|x64
+		{0DF6A262-C8A9-4E31-BF43-76C3B9621FF9}.Release|x64.Build.0 = Release|x64
+		{37ED150B-8CAC-4186-9C60-8DA684C010F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37ED150B-8CAC-4186-9C60-8DA684C010F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37ED150B-8CAC-4186-9C60-8DA684C010F7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{37ED150B-8CAC-4186-9C60-8DA684C010F7}.Debug|x64.Build.0 = Debug|Any CPU
+		{37ED150B-8CAC-4186-9C60-8DA684C010F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37ED150B-8CAC-4186-9C60-8DA684C010F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37ED150B-8CAC-4186-9C60-8DA684C010F7}.Release|x64.ActiveCfg = Release|Any CPU
+		{37ED150B-8CAC-4186-9C60-8DA684C010F7}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D31C484A-9A90-4E06-9449-75486E779394}
+	EndGlobalSection
+EndGlobal

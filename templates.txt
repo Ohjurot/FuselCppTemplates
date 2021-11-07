@@ -1,0 +1,12 @@
+FuselCppTemplate - Static Lib
+C++ Static Lib Template by Ludwig Füchsl
+
+FuselCppTemplate - Shared Lib
+C++ Shared Lib Template by Ludwig Füchsl
+
+FuselCppTemplate - Application
+C++ Application Template by Ludwig Füchsl
+
+
+
+
