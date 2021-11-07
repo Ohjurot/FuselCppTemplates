@@ -1,0 +1,2 @@
+# FuselCppTemplates
+Visual studio templates
